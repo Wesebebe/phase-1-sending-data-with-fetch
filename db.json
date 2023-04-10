@@ -1,5 +1,6 @@
 {
-  "dogs": [{
+  "dogs": [
+    {
       "dogName": "Luca",
       "dogBreed": "German Shepherd",
       "id": 1
@@ -8,9 +9,15 @@
       "dogName": "Lola",
       "dogBreed": "Giant Schnauzer",
       "id": 2
+    },
+    {
+      "Name": "Peter Parker",
+      "email": "peterparker@example.com",
+      "id": 3
     }
   ],
-  "cats": [{
+  "cats": [
+    {
       "catName": "Stanley",
       "catBreed": "Tabby",
       "id": 1
@@ -21,10 +28,273 @@
       "id": 2
     }
   ],
-  "users": [],
-  "robots": [{
-    "robotName": "C8-09S100K",
-    "robotType": "Human Assistant",
-    "id": 9000
-  }]
+  "users": [
+    {
+      "name": "John Snow",
+      "email": "johnsnow@example.com",
+      "id": 1
+    },
+    {
+      "name": "John Snow",
+      "email": "johnsnow@example.com",
+      "id": 2
+    },
+    {
+      "name": "John Snow",
+      "email": "johnsnow@example.com",
+      "id": 3
+    },
+    {
+      "name": "John Snow",
+      "email": "johnsnow@example.com",
+      "id": 4
+    },
+    {
+      "name": "John Snow",
+      "email": "johnsnow@example.com",
+      "id": 5
+    },
+    {
+      "name": "John Snow",
+      "email": "johnsnow@example.com",
+      "id": 6
+    },
+    {
+      "name": "John Snow",
+      "email": "johnsnow@example.com",
+      "id": 7
+    },
+    {
+      "name": "John Snow",
+      "email": "johnsnow@example.com",
+      "id": 8
+    },
+    {
+      "name": "John Snow",
+      "email": "johnsnow@example.com",
+      "id": 9
+    },
+    {
+      "name": "John Snow",
+      "email": "johnsnow@example.com",
+      "id": 10
+    },
+    {
+      "name": "John Snow",
+      "email": "johnsnow@example.com",
+      "id": 11
+    },
+    {
+      "name": "John Snow",
+      "email": "johnsnow@example.com",
+      "id": 12
+    },
+    {
+      "name": "John Snow",
+      "email": "johnsnow@example.com",
+      "id": 13
+    },
+    {
+      "name": "John Snow",
+      "email": "johnsnow@example.com",
+      "id": 14
+    },
+    {
+      "name": "John Snow",
+      "email": "johnsnow@example.com",
+      "id": 15
+    },
+    {
+      "name": "John Snow",
+      "email": "johnsnow@example.com",
+      "id": 16
+    },
+    {
+      "name": "John Snow",
+      "email": "johnsnow@example.com",
+      "id": 17
+    },
+    {
+      "name": "John Snow",
+      "email": "johnsnow@example.com",
+      "id": 18
+    },
+    {
+      "name": "John Snow",
+      "email": "johnsnow@example.com",
+      "id": 19
+    },
+    {
+      "name": "John Snow",
+      "email": "johnsnow@example.com",
+      "id": 20
+    },
+    {
+      "name": "John Snow",
+      "email": "johnsnow@example.com",
+      "id": 21
+    },
+    {
+      "name": "John Snow",
+      "email": "johnsnow@example.com",
+      "id": 22
+    },
+    {
+      "name": "John Snow",
+      "email": "johnsnow@example.com",
+      "id": 23
+    },
+    {
+      "name": "John Snow",
+      "email": "johnsnow@example.com",
+      "id": 24
+    },
+    {
+      "name": "John Snow",
+      "email": "johnsnow@example.com",
+      "id": 25
+    },
+    {
+      "name": "John Snow",
+      "email": "johnsnow@example.com",
+      "id": 26
+    },
+    {
+      "name": "John Snow",
+      "email": "johnsnow@example.com",
+      "id": 27
+    },
+    {
+      "name": "John Snow",
+      "email": "johnsnow@example.com",
+      "id": 28
+    },
+    {
+      "name": "John Snow",
+      "email": "johnsnow@example.com",
+      "id": 29
+    },
+    {
+      "name": "John Snow",
+      "email": "johnsnow@example.com",
+      "id": 30
+    },
+    {
+      "name": "John Snow",
+      "email": "johnsnow@example.com",
+      "id": 31
+    },
+    {
+      "name": "John Snow",
+      "email": "johnsnow@example.com",
+      "id": 32
+    },
+    {
+      "name": "John Snow",
+      "email": "johnsnow@example.com",
+      "id": 33
+    },
+    {
+      "name": "John Snow",
+      "email": "johnsnow@example.com",
+      "id": 34
+    },
+    {
+      "name": "John Snow",
+      "email": "johnsnow@example.com",
+      "id": 35
+    },
+    {
+      "name": "John Snow",
+      "email": "johnsnow@example.com",
+      "id": 36
+    },
+    {
+      "name": "John Snow",
+      "email": "johnsnow@example.com",
+      "id": 37
+    },
+    {
+      "name": "John Snow",
+      "email": "johnsnow@example.com",
+      "id": 38
+    },
+    {
+      "name": "John Snow",
+      "email": "johnsnow@example.com",
+      "id": 39
+    },
+    {
+      "name": "John Snow",
+      "email": "johnsnow@example.com",
+      "id": 40
+    },
+    {
+      "name": "",
+      "email": "johnsnow@example.com",
+      "id": 41
+    },
+    {
+      "name": "",
+      "email": "",
+      "id": 42
+    },
+    {
+      "name": "",
+      "email": "",
+      "id": 43
+    },
+    {
+      "name": "",
+      "email": "",
+      "id": 44
+    },
+    {
+      "name": "",
+      "email": "",
+      "id": 45
+    },
+    {
+      "name": "",
+      "email": "",
+      "id": 46
+    },
+    {
+      "name": "",
+      "email": "",
+      "id": 47
+    },
+    {
+      "name": "",
+      "email": "",
+      "id": 48
+    },
+    {
+      "name": "",
+      "email": "",
+      "id": 49
+    },
+    {
+      "name": "",
+      "email": "",
+      "id": 50
+    },
+    {
+      "name": "",
+      "email": "",
+      "id": 51
+    },
+    {
+      "Name": "Peter Parker",
+      "email": "peterparker@example.com",
+      "id": 52
+    }
+  ],
+  "robots": [
+    {
+      "robotName": "C8-09S100K",
+      "robotType": "Human Assistant",
+      "id": 9000
+    }
+  ]
 }
